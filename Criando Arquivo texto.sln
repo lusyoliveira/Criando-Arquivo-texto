@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Criando Arquivo texto", "Criando Arquivo texto.vbproj", "{FEB03AFA-E905-4B9B-B7B7-AD06D5D4F9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB03AFA-E905-4B9B-B7B7-AD06D5D4F9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB03AFA-E905-4B9B-B7B7-AD06D5D4F9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB03AFA-E905-4B9B-B7B7-AD06D5D4F9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB03AFA-E905-4B9B-B7B7-AD06D5D4F9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2F31C4-2D94-40CB-A6AF-C9308BDDBE3B}
+	EndGlobalSection
+EndGlobal
